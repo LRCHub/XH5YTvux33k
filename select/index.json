@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "Around Me",
+  "base_artist": "Metro Boomin",
+  "createdAt": "2026-02-25T17:36:00.597444Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "All Around Me",
+      "artist": "Lil Yachty feat. YG & Kamaiyah",
+      "has_synced": true,
+      "path": "select/01_All_Around_Me_Lil_Yachty_feat._YG_&_Kamaiyah.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "You Put Your Arms Around Me (Demo)",
+      "artist": "Sinéad O'Connor",
+      "has_synced": false,
+      "path": "select/02_You_Put_Your_Arms_Around_Me_(Demo)_Sinéad_O'Connor.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "You Put Your Arms Around Me (Demo)",
+      "artist": "Sinead O'connor",
+      "has_synced": false,
+      "path": "select/03_You_Put_Your_Arms_Around_Me_(Demo)_Sinead_O'connor.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Put Your Arms Around Me",
+      "artist": "Sandra",
+      "has_synced": false,
+      "path": "select/04_Put_Your_Arms_Around_Me_Sandra.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Wrap Your Arms Around Me",
+      "artist": "The Knife",
+      "has_synced": true,
+      "path": "select/05_Wrap_Your_Arms_Around_Me_The_Knife.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Wrap Your Arms Around Me (Shaken-Up Live Version)",
+      "artist": "The Knife",
+      "has_synced": false,
+      "path": "select/06_Wrap_Your_Arms_Around_Me_(Shaken-Up_Live_Version)_The_Knife.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Put Your Arms Around Me",
+      "artist": "Texas",
+      "has_synced": true,
+      "path": "select/07_Put_Your_Arms_Around_Me_Texas.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Put Your Arms Around Me (Weatherall's Electric for Bird mix)",
+      "artist": "Texas",
+      "has_synced": false,
+      "path": "select/08_Put_Your_Arms_Around_Me_(Weatherall's_Electric_for_Bird_mix)_Texas.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Come Around Me",
+      "artist": "Justin Bieber",
+      "has_synced": true,
+      "path": "select/09_Come_Around_Me_Justin_Bieber.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "All These Things I Hate (Revolve Around Me)",
+      "artist": "Bullet for My Valentine",
+      "has_synced": true,
+      "path": "select/10_All_These_Things_I_Hate_(Revolve_Around_Me)_Bullet_for_My_Valentine.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "All These Things I Hate (Revolve Around Me) (Live At Brixton Academy)",
+      "artist": "Bullet for My Valentine",
+      "has_synced": true,
+      "path": "select/11_All_These_Things_I_Hate_(Revolve_Around_Me)_(Live_At_Brixton_Academy)_Bullet_for_My_Valentine.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "All These Things I Hate (Revolve Around Me) (live at Brixton)",
+      "artist": "Bullet for My Valentine",
+      "has_synced": true,
+      "path": "select/12_All_These_Things_I_Hate_(Revolve_Around_Me)_(live_at_Brixton)_Bullet_for_My_Valentine.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Your Arms Around Me",
+      "artist": "Jens Lekman",
+      "has_synced": true,
+      "path": "select/13_Your_Arms_Around_Me_Jens_Lekman.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "All Around Me",
+      "artist": "Flyleaf",
+      "has_synced": true,
+      "path": "select/14_All_Around_Me_Flyleaf.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "All Around Me (Acoustic)",
+      "artist": "Flyleaf",
+      "has_synced": true,
+      "path": "select/15_All_Around_Me_(Acoustic)_Flyleaf.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Around Me (feat. Don Toliver)",
+      "artist": "Metro Boomin, Don Toliver",
+      "has_synced": false,
+      "path": "select/pl_01_Around_Me_(feat._Don_Toliver)_Metro_Boomin,_Don_Toliver.txt"
+    }
+  ]
+}
